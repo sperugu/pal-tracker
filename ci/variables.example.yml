@@ -1,0 +1,9 @@
+cf-api-url: https://api.sys.longs.pal.pivotal.io
+cf-username: sperugu@hcl.com
+cf-password: d0d2724a
+cf-org: sperugu-pal
+github-repository: git@github.com:GITHUB_USERNAME/pal-tracker.git
+github-private-key:
+  -----BEGIN RSA PRIVATE KEY-----
+  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPJH8S0+Kjb03y+6BDfMtSfZrMNuw7QuiW5jHarsz9UvII9WIudCvE5aRJwVJfhoRBLg8IFhaA4tmISsuHepaNEZC4OI1Cw7fsBP89kcq7qvbdOn2KPVhXuGh3U4ZYrTxxNS/t6mhNdh/1CF+bu7N1GqpoMMOvycIudqc1pp3ngSiBRO/68dVeRictlgLyy+gnrjsFQ09mBId+tViEc/jFXEVOk3ctE4flk1ViRUUsIyNljEb/Z0kvMHGo0x6tVZ+6VbdighbWcdeK/fNXw5YU/11dpXn/eiXDEd9WAbfI5MX4JjRISQ/JR4m++ZWg3kTu9kxexdvOoLIlAOe4rNyRDG2UKGYdfMzxHxuMPd0PJ7pxe1WV1dC9bZ86L2d4gbqXieL0tco9jKhkpGCPB3Cs7tyd3H2CNGtLVPEnj1j+GxV4Jl3zgV08PCJuZI/vxiS4XV/BTkflJe4BHv1dLlLYU+wLBFCCWxX+OrQDYUzhAAUzysZ/5G+8QY5Jb5XqhbSOyL08UKBv1iJalt6nG97QzRkyfrjVjo2N3tij7nf8kVIujB5vOcK9V01MK1QSW7qrwPfndq77zrYrcWXec3/d3snB2TykqSxF+FRfyLrzlEdubOGCDWRa966j1Oq6YKmvlKEgzTkHwvncAeLEEyWpynIhoXdyJZAJ8ALoZfbj1Q== sperugu@hcl.com
+  -----END RSA PRIVATE KEY-----
