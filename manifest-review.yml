@@ -1,4 +1,5 @@
+---
 applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
-  random-route: true
+  host: sperugu-pal-tracker-review
