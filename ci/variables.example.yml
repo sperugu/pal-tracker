@@ -5,5 +5,4 @@ cf-org: sperugu-pal
 github-repository: git@github.com:GITHUB_USERNAME/pal-tracker.git
 github-private-key:
    -----BEGIN RSA PRIVATE KEY-----
-
       -----END RSA PRIVATE KEY-----
